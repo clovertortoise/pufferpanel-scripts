@@ -3,9 +3,9 @@
 # This script is used with cron to automate server restarts and backups for individual Pufferpanel servers.
 
 # It performs the following tasks:
-# Handles server backups by creating timestamped archives,
-# limits backup storage to a defined maximum,
-# and facilitates smooth server restarts via PufferPanel's API.
+# - Handles server backups by creating timestamped archives,
+# - limits backup storage to a defined maximum,
+# - and facilitates smooth server restarts via PufferPanel's API.
 # The script includes customizable warning messages and leverages OAuth2 for secure authentication.
 
 # PufferPanel API details
