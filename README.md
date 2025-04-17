@@ -1,5 +1,6 @@
 # pufferpanel-scripts
 
-Management scripts for my pufferpanel servers.
+Management scripts for pufferpanel servers.
 
-Designed to automate backups and updates / restarts when scheduled with cron for minimal user intervention.
+- Designed to automate backups and updates / restarts
+- Scheduled with cron for minimal user intervention
