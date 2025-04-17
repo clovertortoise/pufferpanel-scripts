@@ -1,6 +1,6 @@
 # pufferpanel-scripts
 
-Management scripts for pufferpanel servers. Designed to be schedule with cron to automate backups and updates with minimal user intervention.
+Management scripts for pufferpanel servers. Designed to be scheduled with cron to automate backups and updates with minimal user intervention.
 
 1. [auto-puffer.sh](/auto-puffer.sh) (General Servers) Shuts down, backs up and restarts via the Pufferpanel API.
 2. [mc-mgr.sh](/mc-mgr.sh) (Minecraft Bedrock) Notifies players before it shuts down, backs up, updates and restarts.
